@@ -1,6 +1,6 @@
 # 🚗 AI-Powered WhatsApp Sales Automation for Car Dealerships (Built with n8n)
 
-> Below is a system that I built for a client to solve a common problem in the automotive sales industry: **slow response times to customer inquiries and inefficient lead handling**.
+Below is a system that I built for a client to solve a common problem in the automotive sales industry: **slow response times to customer inquiries and inefficient lead handling**.
 
 Modern car buyers frequently reach out to dealerships via **WhatsApp and other messaging platforms**, often expecting immediate responses. Unfortunately, many dealerships struggle to respond quickly due to limited staff availability, manual scheduling processes, and lack of structured lead management.
 
@@ -266,7 +266,7 @@ You may include a short demo showing:
 Example:
 
 ```
-[Insert demo video or GIF here]
+https://github.com/user-attachments/assets/1e983d94-4c22-4290-b070-8c032cd9b32c
 ```
 
 ---
@@ -374,3 +374,4 @@ I specialize in designing systems that:
 • Automate repetitive business processes  
 • Improve operational efficiency  
 • Convert leads into structured opportunities  
+
