@@ -1,4 +1,4 @@
-# 🚗 AI-Powered WhatsApp Sales Automation for Car Dealerships (Built with n8n)
+# 🚗 WhatsApp Sales Automation for Car Dealerships (Built with n8n)
 
 Below is a system that I built for a client to solve a common problem in the automotive sales industry: **slow response times to customer inquiries and inefficient lead handling**.
 
@@ -238,38 +238,21 @@ Sales representatives can immediately understand the situation and prepare accor
 
 # 📸 Workflow Screenshots
 
-*(Add screenshots of your workflow here)*
+overview of the agent
 
-Recommended screenshots:
+<img width="1912" height="954" alt="image" src="https://github.com/user-attachments/assets/15e9bf2f-3fa2-4648-8d4d-5892617e6fb9" />
 
-```
-/screenshots/workflow-overview.png
-/screenshots/ai-agent-config.png
-/screenshots/airtable-inventory.png
-/screenshots/conversation-example.png
-```
+AI agent
+<img width="1912" height="954" alt="image" src="https://github.com/user-attachments/assets/5d0e2638-69aa-4821-b5cc-a5f79c6e7000" />
 
-Screenshots help readers quickly understand the system design.
+Airtable car inventory sample
+<img width="1912" height="954" alt="image" src="https://github.com/user-attachments/assets/50fec53a-30a1-464c-9c9c-2a945afa8d5f" />
 
----
 
 # 🎥 Demo
 
-You may include a short demo showing:
+../assets/whatsapp car dealership .mp4
 
-• A customer sending a WhatsApp inquiry  
-• The AI responding instantly  
-• Appointment booking  
-• CRM update  
-• Sales report email
-
-Example:
-
-```
-https://github.com/user-attachments/assets/1e983d94-4c22-4290-b070-8c032cd9b32c
-```
-
----
 
 # 🚀 Scalability & Future Improvements
 
@@ -374,4 +357,7 @@ I specialize in designing systems that:
 • Automate repetitive business processes  
 • Improve operational efficiency  
 • Convert leads into structured opportunities  
+
+If you need Automation services reach me at streamlinex9@gmail.com 
+
 
