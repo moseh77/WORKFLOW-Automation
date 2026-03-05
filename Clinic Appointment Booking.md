@@ -1,12 +1,6 @@
 # AI WhatsApp Clinic Assistant  
 ### Automated Doctor Appointment & Billing System
 
-![Automation](https://img.shields.io/badge/Automation-n8n-orange)
-![AI](https://img.shields.io/badge/AI-Gemini-blue)
-![Payments](https://img.shields.io/badge/Payments-Stripe-purple)
-![Database](https://img.shields.io/badge/Database-Supabase-green)
-![Messaging](https://img.shields.io/badge/Messaging-WhatsApp-darkgreen)
-
 ---
 
 # Overview
@@ -232,6 +226,18 @@ Once these integrations are configured, the system can run continuously with min
 Recommended screenshots to include:
 
 - Full n8n workflow overview
+
+<img width="1912" height="954" alt="image" src="https://github.com/user-attachments/assets/c346309e-9902-4c7f-a9a6-4653cdcbe73e" />
+
+<img width="1912" height="954" alt="image" src="https://github.com/user-attachments/assets/375007eb-6cdd-47c6-ad80-b0e6e1282c0e" />
+
+<img width="1912" height="954" alt="image" src="https://github.com/user-attachments/assets/85018615-10a5-4957-a133-72b09f0cc2c9" />
+
+<img width="1912" height="954" alt="image" src="https://github.com/user-attachments/assets/21e98858-01d4-414f-939f-0d0abb98749f" />
+
+
+
+
 - WhatsApp conversation example
 - Google Sheets operational dashboard
 - Stripe payment process
@@ -269,5 +275,6 @@ Integration with electronic medical record systems
 This project demonstrates how automation and conversational AI can transform traditional clinic operations.
 
 By combining messaging automation, scheduling logic, and secure payment processing, the system functions as a fully automated digital receptionist that operates continuously without manual supervision.
+
 
 Clinics benefit from improved organization and reduced administrative workload, while patients enjoy a faster and more convenient appointment booking experience through WhatsApp.
