@@ -232,39 +232,29 @@ Once the request is processed, the plumber receives:
 
 This allows the plumber to respond quickly without manually gathering information.
 
----
 
-# Screenshots
-
-*(Insert screenshots in this section when publishing the documentation.)*
-
-Suggested screenshots:
 
 ### AI Agent Configuration
 
-- Retell agent setup
-- Voice configuration
-- Tools and integrations
+Retell agent setup
 
-### Workflow Automation
+<img width="1913" height="965" alt="image" src="https://github.com/user-attachments/assets/ecb95489-a229-47f2-aba7-ee836c20bed8" />
 
-- n8n workflow overview
-- Node configuration
-- Job processing pipeline
+n8n workflow overview
 
-### Call Logs
+<img width="1913" height="965" alt="image" src="https://github.com/user-attachments/assets/e3cccec5-e904-45ca-a7b2-a797104a9da5" />
+
+<img width="1913" height="965" alt="image" src="https://github.com/user-attachments/assets/6caaacad-bc14-4b5a-af72-0707d01f585b" />
+
+<img width="1913" height="965" alt="image" src="https://github.com/user-attachments/assets/2096918d-1987-4da0-a291-24dc98d612ac" />
 
 - Spreadsheet job logs
-- Call analysis records
-- Recorded call links
 
-### Notification System
+<img width="1913" height="965" alt="image" src="https://github.com/user-attachments/assets/f3f3583f-77af-411c-81eb-e9cdbf309135" />
 
-- Email notifications
-- Messaging alerts
-- Job dispatch flow
+<img width="1913" height="965" alt="image" src="https://github.com/user-attachments/assets/9b587d0a-8fe7-4ffd-bfd0-90247df11785" />
 
----
+<img width="1913" height="965" alt="image" src="https://github.com/user-attachments/assets/38777755-9e67-4399-a420-d7a70db8e438" />
 
 # Technical Architecture
 
@@ -438,6 +428,7 @@ This system can evolve into a full **AI dispatch platform** by adding:
 If you would like this system integrated into your business workflow or customized for your operations, you can reach me at:
 
 **Email:**  
-*(Insert contact email here)*
+*streamlinex9@gmail.com*
+
 
 ---
