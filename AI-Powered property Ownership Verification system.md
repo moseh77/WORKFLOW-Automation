@@ -55,6 +55,21 @@ If anyone alters a property record later, the system immediately detects the cha
 
 ---
 
+Below is an overview of the system
+
+<img width="1200" height="608" alt="image" src="https://github.com/user-attachments/assets/e60e841b-5897-4190-b254-31eb633ad658" />
+
+input form
+
+<img width="800" height="448" alt="image" src="https://github.com/user-attachments/assets/045b1b11-552c-4535-a965-9c79d80b6479" />
+
+blockchain client
+
+<img width="800" height="401" alt="image" src="https://github.com/user-attachments/assets/16a2aec3-5fc2-44ec-a111-371c13bae2f4" />
+
+
+
+
 # Real World Scenario: How the System Protects a Real Estate Firm
 
 Phase 1 — Property Registration
@@ -362,6 +377,9 @@ financial compliance monitoring
 
 ---
 
-# Author
+# Implementation
 
-Automation system designed and implemented using n8n workflows, AI agents, and blockchain verification architecture to demonstrate secure enterprise automation design.
+If you would like this system integrated into your business workflow or customized for your operations, you can reach me at:
+
+**Email:**  
+*streamlinex9@gmail.com*
