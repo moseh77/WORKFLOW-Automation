@@ -259,35 +259,28 @@ When the AI agent captures a pickup order:
 
 ## AI Agent Configuration
 
-```
-[Insert screenshot here]
-```
+<img width="1913" height="961" alt="image" src="https://github.com/user-attachments/assets/60f4ffde-c1d8-4d09-82ff-c817a4dece20" />
 
-## Voice Agent Conversation Flow
+<img width="1913" height="961" alt="image" src="https://github.com/user-attachments/assets/5cf7691e-13f5-4034-a6c9-b4ab5b0a68cb" />
 
-```
-[Insert screenshot here]
-```
+<img width="1913" height="961" alt="image" src="https://github.com/user-attachments/assets/74e898e6-4179-4fcd-9d46-f01c19815108" />
+
+<img width="1913" height="961" alt="image" src="https://github.com/user-attachments/assets/c4d5bd9f-1c33-4b59-a9da-a17f71e68264" />
+
 
 ## n8n Workflow Overview
 
-```
-[Insert screenshot here]
-```
+<img width="1913" height="961" alt="image" src="https://github.com/user-attachments/assets/b9c83c2c-2092-4cd4-afb8-e6cf040b8a2e" />
+
 
 ## Reservation Calendar Integration
 
-```
-[Insert screenshot here]
-```
+<img width="1913" height="961" alt="image" src="https://github.com/user-attachments/assets/a8675ff9-9783-4e10-9787-cd07912805ee" />
+
 
 ## Order Notification Example
 
-```
-[Insert screenshot here]
-```
 
----
 
 # Example Customer Experience
 
@@ -371,5 +364,6 @@ If you are interested in implementing this AI receptionist for your restaurant o
 ```
 streamlinex9@gmail.com
 ```
+
 
 ---
