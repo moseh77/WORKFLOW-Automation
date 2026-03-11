@@ -235,14 +235,10 @@ Recommended screenshots to include:
 
 <img width="1912" height="954" alt="image" src="https://github.com/user-attachments/assets/21e98858-01d4-414f-939f-0d0abb98749f" />
 
-
-
-
 - WhatsApp conversation example
-- Google Sheets operational dashboard
 - Stripe payment process
+<img width="1200" height="714" alt="image" src="https://github.com/user-attachments/assets/7b68fd21-cf6e-40a5-b3c7-6a5d97809fe8" />
 
----
 
 # Scalability
 
@@ -278,3 +274,4 @@ By combining messaging automation, scheduling logic, and secure payment processi
 
 
 Clinics benefit from improved organization and reduced administrative workload, while patients enjoy a faster and more convenient appointment booking experience through WhatsApp.
+
